@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d23d8ba3-ea06-4d3e-9c44-e1ff7b64fa54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccountSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieTicketBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S3/BankSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S3/LibrarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S3/PayrollSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S3/VehicleRentalSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S4/MedievalKingdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S4/SpaceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Q1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="32KkWzB6CT1g1MjVbjfz8QTG1Yb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Intellij/STEP2/HW/S4"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23d8ba3-ea06-4d3e-9c44-e1ff7b64fa54" name="Changes" comment="" />
+      <created>1757176687166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757176687166</updated>
+    </task>
+    <servers />
+  </component>
+</project>

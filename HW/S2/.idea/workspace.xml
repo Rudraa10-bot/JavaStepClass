@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2cc23d2-abc0-4314-942f-9dba5558e4c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab/S2/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab/Q1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="31eVPlwyoj9Xl73qZTklg6ZaRln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Intellij/STEP2/HW/S2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2cc23d2-abc0-4314-942f-9dba5558e4c7" name="Changes" comment="" />
+      <created>1755884503168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755884503168</updated>
+    </task>
+    <servers />
+  </component>
+</project>
